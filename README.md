@@ -1,5 +1,5 @@
 # Security, Compliance & Responsible AI in Production
-### Deliverables (Week 11)
+### Deliverables
 
 This package contains the slide deck and companion demo notebook for the session.
 
@@ -12,15 +12,15 @@ This package contains the slide deck and companion demo notebook for the session
 
 ## Session Structure
 
-| # | Section | Slides | Notebook Block |
-|---|---|---|---|
-| 1 | Model Security — why it matters, the four threat buckets (data, input, model & privacy, infrastructure & access), defensive design | 12 | Block 1 |
-| 2 | Data Privacy — PII, minimisation, anonymisation, access control, governance | 10 | Block 2 |
-| 3 | Responsible AI — fairness (group-wise metrics + limits), explainability (local & global), audit trails | 10 | Block 3 |
-| 4 | Compliance — SOC2, GDPR, HIPAA in ML systems | 3 | — (conceptual only) |
-| 5 | Case Study — drift vs. fairness trade-offs | 5 | Block 4 |
+| # | Section | Notebook Block |
+|---|---|---|
+| 1 | Model Security — why it matters, the four threat buckets (data, input, model & privacy, infrastructure & access), defensive design | Block 1 |
+| 2 | Data Privacy — PII, minimisation, anonymisation, access control, governance | Block 2 |
+| 3 | Responsible AI — fairness (group-wise metrics + limits), explainability (local & global), audit trails | Block 3 |
+| 4 | Compliance — SOC2, GDPR, HIPAA in ML systems | — (conceptual only) |
+| 5 | Case Study — drift vs. fairness trade-offs | Block 4 |
 
-Plus 3 intro slides (title, agenda, framing) and 2 closing slides (key takeaways, thank you) = 45 total.
+Plus intro and closing sections.
 
 Each concept section in the deck is followed by a "Live Demo" slide that names the matching
 notebook block, its dataset, and what to run live.
