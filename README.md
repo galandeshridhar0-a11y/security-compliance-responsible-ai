@@ -1,5 +1,5 @@
 # Security, Compliance & Responsible AI in Production
-### 1-Hour Session — Deliverables (Week 11)
+### Deliverables (Week 11)
 
 This package contains the slide deck and companion demo notebook for the session.
 
@@ -10,15 +10,15 @@ This package contains the slide deck and companion demo notebook for the session
 | `Security_Compliance_Responsible_AI.pptx` | 45-slide deck covering all 5 session topics, with "Live Demo" transition slides pointing to the notebook |
 | `Security_Compliance_Responsible_AI_Demo.ipynb` | Jupyter notebook with 4 independent, fully executed demo blocks — one per deck section |
 
-## Session Structure (60 minutes)
+## Session Structure
 
-| # | Section | Time | Slides | Notebook Block |
-|---|---|---|---|---|
-| 1 | Model Security — why it matters, the four threat buckets (data, input, model & privacy, infrastructure & access), defensive design | 18 min | 12 | Block 1 |
-| 2 | Data Privacy — PII, minimisation, anonymisation, access control, governance | 13 min | 10 | Block 2 |
-| 3 | Responsible AI — fairness (group-wise metrics + limits), explainability (local & global), audit trails | 14 min | 10 | Block 3 |
-| 4 | Compliance — SOC2, GDPR, HIPAA in ML systems | 6 min | 3 | — (conceptual only) |
-| 5 | Case Study — drift vs. fairness trade-offs | 9 min | 5 | Block 4 |
+| # | Section | Slides | Notebook Block |
+|---|---|---|---|
+| 1 | Model Security — why it matters, the four threat buckets (data, input, model & privacy, infrastructure & access), defensive design | 12 | Block 1 |
+| 2 | Data Privacy — PII, minimisation, anonymisation, access control, governance | 10 | Block 2 |
+| 3 | Responsible AI — fairness (group-wise metrics + limits), explainability (local & global), audit trails | 10 | Block 3 |
+| 4 | Compliance — SOC2, GDPR, HIPAA in ML systems | 3 | — (conceptual only) |
+| 5 | Case Study — drift vs. fairness trade-offs | 5 | Block 4 |
 
 Plus 3 intro slides (title, agenda, framing) and 2 closing slides (key takeaways, thank you) = 45 total.
 
