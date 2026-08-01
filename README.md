@@ -7,7 +7,6 @@ This package contains the slide deck and companion demo notebook for the session
 
 | File | Description |
 |---|---|
-| `Security_Compliance_Responsible_AI.pptx` | 45-slide deck covering all 5 session topics, with "Live Demo" transition slides pointing to the notebook |
 | `Security_Compliance_Responsible_AI_Demo.ipynb` | Jupyter notebook with 4 independent, fully executed demo blocks — one per deck section |
 
 ## Session Structure
